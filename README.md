@@ -1,6 +1,6 @@
 # FishNALM
 
-**FishNALM: A Fish-Specific Foundation DNA Language Model for Fish Genomes**
+**FishNALM: A Foundation DNA Language Model for Fish Genomes**
 
 ## Overview
 
