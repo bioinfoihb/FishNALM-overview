@@ -21,7 +21,7 @@ The FishNALM code repository has been established at:
 
 **GitHub:** https://github.com/bioinfoihb/FishNALM
 
-To avoid affecting the peer-review and publication process, the source code is **currently kept private**.  
+To preserve the novelty of the study before formal publication, the source code is **currently kept private**.  
 The **full codebase will be released publicly upon publication** of the corresponding paper.
 
 At the current stage, this repository is intended to provide project information and access points for released models and datasets. More complete documentation and runnable code will be made available after publication.
